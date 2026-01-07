@@ -1,2 +1,4 @@
 # learning-repo
-this is my learning of how git na dgithub work
+this is my learning of 
+<br>
+how git and github work
